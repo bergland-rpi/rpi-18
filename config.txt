@@ -1,11 +1,11 @@
 brightness=250
 R=0
-G=0
+G=250
 B=0
-W=250
+W=0
 LED_COUNT=24
-onTime=7
-offTime=20
+onTime=9
+offTime=18
 checkTime=60
 highAlarm=12.5
 lowAlarm=11.39
